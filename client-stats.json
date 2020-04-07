@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "3.12.0",
-  "hash": "6d52d43b532f57b01a91",
-  "time": 7451,
-  "publicPath": "https://ninaolo.github.io/react-static-github-pages-example/",
+  "hash": "bac921d22d5925f18e8e",
+  "time": 41700,
+  "publicPath": "https://matheushonorato.github.io/react-static-github-pages-example/",
   "assetsByChunkName": {
     "src/containers/Home": "templates/src/containers/Home.900c406e.js",
     "src/containers/Post": "templates/src/containers/Post.15cdd7df.js",
@@ -12,11 +12,11 @@
     "src/containers/About": "templates/src/containers/About.48e7e8b3.js",
     "src/containers/404": "templates/src/containers/404.78fd131c.js",
     "main": [
-      "main.efd98819.js",
-      "styles.6d52d43b.css",
-      "styles.6d52d43b.css.map"
+      "main.3de60d51.js",
+      "styles.bac921d2.css",
+      "styles.bac921d2.css.map"
     ],
-    "bootstrap": "bootstrap.9b93ad33.js"
+    "bootstrap": "bootstrap.d286d507.js"
   },
   "assets": [
     {
@@ -82,8 +82,8 @@
       "emitted": true
     },
     {
-      "name": "main.efd98819.js",
-      "size": 267347,
+      "name": "main.3de60d51.js",
+      "size": 267387,
       "chunks": [
         5
       ],
@@ -94,8 +94,8 @@
       "isOverSizeLimit": true
     },
     {
-      "name": "bootstrap.9b93ad33.js",
-      "size": 1629,
+      "name": "bootstrap.d286d507.js",
+      "size": 1637,
       "chunks": [
         6
       ],
@@ -105,7 +105,7 @@
       "emitted": true
     },
     {
-      "name": "styles.6d52d43b.css",
+      "name": "styles.bac921d2.css",
       "size": 383,
       "chunks": [
         5
@@ -116,7 +116,7 @@
       "emitted": true
     },
     {
-      "name": "styles.6d52d43b.css.map",
+      "name": "styles.bac921d2.css.map",
       "size": 96,
       "chunks": [
         5
@@ -135,10 +135,10 @@
         5
       ],
       "assets": [
-        "bootstrap.9b93ad33.js",
-        "main.efd98819.js",
-        "styles.6d52d43b.css",
-        "styles.6d52d43b.css.map"
+        "bootstrap.d286d507.js",
+        "main.3de60d51.js",
+        "styles.bac921d2.css",
+        "styles.bac921d2.css.map"
       ],
       "isOverSizeLimit": true
     }
@@ -590,11 +590,11 @@
         "main"
       ],
       "files": [
-        "main.efd98819.js",
-        "styles.6d52d43b.css",
-        "styles.6d52d43b.css.map"
+        "main.3de60d51.js",
+        "styles.bac921d2.css",
+        "styles.bac921d2.css.map"
       ],
-      "hash": "efd98819d0dba535c42c",
+      "hash": "3de60d514e73633e1c58",
       "parents": [
         6
       ],
@@ -1367,9 +1367,9 @@
             5
           ],
           "assets": [],
-          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\createHashHistory.js",
-          "issuerId": 121,
-          "issuerName": "./node_modules/history/createHashHistory.js",
+          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\createBrowserHistory.js",
+          "issuerId": 119,
+          "issuerName": "./node_modules/history/createBrowserHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -1495,9 +1495,9 @@
             5
           ],
           "assets": [],
-          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router-dom\\es\\HashRouter.js",
-          "issuerId": 68,
-          "issuerName": "./node_modules/react-router-dom/es/HashRouter.js",
+          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router-dom\\es\\BrowserRouter.js",
+          "issuerId": 62,
+          "issuerName": "./node_modules/react-router-dom/es/BrowserRouter.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -1999,9 +1999,9 @@
             5
           ],
           "assets": [],
-          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router-dom\\es\\HashRouter.js",
-          "issuerId": 68,
-          "issuerName": "./node_modules/react-router-dom/es/HashRouter.js",
+          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router-dom\\es\\BrowserRouter.js",
+          "issuerId": 62,
+          "issuerName": "./node_modules/react-router-dom/es/BrowserRouter.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -2097,9 +2097,9 @@
             5
           ],
           "assets": [],
-          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-static\\lib\\client\\components\\RouteData.js",
-          "issuerId": 92,
-          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
+          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\babel-loader\\lib\\index.js??ref--0-oneOf-0-0!C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\dist\\react-static-routes.js",
+          "issuerId": 130,
+          "issuerName": "./dist/react-static-routes.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3311,9 +3311,9 @@
             5
           ],
           "assets": [],
-          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\es\\createHashHistory.js",
-          "issuerId": 66,
-          "issuerName": "./node_modules/history/es/createHashHistory.js",
+          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\es\\createBrowserHistory.js",
+          "issuerId": 65,
+          "issuerName": "./node_modules/history/es/createBrowserHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3529,9 +3529,9 @@
             5
           ],
           "assets": [],
-          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router\\es\\generatePath.js",
-          "issuerId": 34,
-          "issuerName": "./node_modules/react-router/es/generatePath.js",
+          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router\\es\\matchPath.js",
+          "issuerId": 21,
+          "issuerName": "./node_modules/react-router/es/matchPath.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -4099,9 +4099,9 @@
             5
           ],
           "assets": [],
-          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\createHashHistory.js",
-          "issuerId": 121,
-          "issuerName": "./node_modules/history/createHashHistory.js",
+          "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\createBrowserHistory.js",
+          "issuerId": 119,
+          "issuerName": "./node_modules/history/createBrowserHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -7533,9 +7533,9 @@
         "bootstrap"
       ],
       "files": [
-        "bootstrap.9b93ad33.js"
+        "bootstrap.d286d507.js"
       ],
-      "hash": "9b93ad33e670bf332359",
+      "hash": "d286d507ccbfb22ae076",
       "parents": [],
       "modules": [],
       "filteredModules": 0,
@@ -8311,9 +8311,9 @@
         5
       ],
       "assets": [],
-      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\createHashHistory.js",
-      "issuerId": 121,
-      "issuerName": "./node_modules/history/createHashHistory.js",
+      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\createBrowserHistory.js",
+      "issuerId": 119,
+      "issuerName": "./node_modules/history/createBrowserHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -8439,9 +8439,9 @@
         5
       ],
       "assets": [],
-      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router-dom\\es\\HashRouter.js",
-      "issuerId": 68,
-      "issuerName": "./node_modules/react-router-dom/es/HashRouter.js",
+      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router-dom\\es\\BrowserRouter.js",
+      "issuerId": 62,
+      "issuerName": "./node_modules/react-router-dom/es/BrowserRouter.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -8943,9 +8943,9 @@
         5
       ],
       "assets": [],
-      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router-dom\\es\\HashRouter.js",
-      "issuerId": 68,
-      "issuerName": "./node_modules/react-router-dom/es/HashRouter.js",
+      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router-dom\\es\\BrowserRouter.js",
+      "issuerId": 62,
+      "issuerName": "./node_modules/react-router-dom/es/BrowserRouter.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -9041,9 +9041,9 @@
         5
       ],
       "assets": [],
-      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-static\\lib\\client\\components\\RouteData.js",
-      "issuerId": 92,
-      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
+      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\babel-loader\\lib\\index.js??ref--0-oneOf-0-0!C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\dist\\react-static-routes.js",
+      "issuerId": 130,
+      "issuerName": "./dist/react-static-routes.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10255,9 +10255,9 @@
         5
       ],
       "assets": [],
-      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\es\\createHashHistory.js",
-      "issuerId": 66,
-      "issuerName": "./node_modules/history/es/createHashHistory.js",
+      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\es\\createBrowserHistory.js",
+      "issuerId": 65,
+      "issuerName": "./node_modules/history/es/createBrowserHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10473,9 +10473,9 @@
         5
       ],
       "assets": [],
-      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router\\es\\generatePath.js",
-      "issuerId": 34,
-      "issuerName": "./node_modules/react-router/es/generatePath.js",
+      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\react-router\\es\\matchPath.js",
+      "issuerId": 21,
+      "issuerName": "./node_modules/react-router/es/matchPath.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -11043,9 +11043,9 @@
         5
       ],
       "assets": [],
-      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\createHashHistory.js",
-      "issuerId": 121,
-      "issuerName": "./node_modules/history/createHashHistory.js",
+      "issuer": "C:\\xampp\\htdocs\\blog-react\\react-static-github-pages-example\\node_modules\\history\\createBrowserHistory.js",
+      "issuerId": 119,
+      "issuerName": "./node_modules/history/createBrowserHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -14733,7 +14733,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "https://ninaolo.github.io/react-static-github-pages-example/",
+      "publicPath": "https://matheushonorato.github.io/react-static-github-pages-example/",
       "assetsByChunkName": {},
       "assets": [],
       "filteredAssets": 0,
@@ -14759,7 +14759,7 @@
           "files": [
             "extract-text-webpack-plugin-output-filename"
           ],
-          "hash": "b33f11e51563d20e4696",
+          "hash": "c83ed4bfc9ed18b0b99e",
           "parents": [],
           "modules": [
             {
